@@ -1,6 +1,5 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
-    session_token: session_token
+  - email: yila22@lehigh.edu
+    password: zxcxzcz123
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
